@@ -1,3 +1,5 @@
+> Visit the `/screenshots` folder to view and work with the website frontend.
+
 # EcommProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.3.

@@ -40,7 +40,7 @@
     {
       "name": "dell inspiron16",
       "price": "80000",
-      "color": "black",
+      "color": "white",
       "category": "laptop",
       "discription": "512GB SSD, 16GB RAM, corei5 12th Generation processor",
       "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Inspiron_16_Plus_angled_left_1280x1280.jpeg",
@@ -154,6 +154,42 @@
       "userId": 1,
       "productId": 7,
       "id": 3
+    },
+    {
+      "name": "dell inspiron16",
+      "price": "80000",
+      "color": "black",
+      "category": "laptop",
+      "discription": "512GB SSD, 16GB RAM, corei5 12th Generation processor",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Inspiron_16_Plus_angled_left_1280x1280.jpeg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": null,
+      "id": 4
+    },
+    {
+      "name": "dell inspiron16",
+      "price": "80000",
+      "color": "black",
+      "category": "laptop",
+      "discription": "512GB SSD, 16GB RAM, corei5 12th Generation processor",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Inspiron_16_Plus_angled_left_1280x1280.jpeg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": null,
+      "id": 5
+    },
+    {
+      "name": "hp pevilion15",
+      "price": "90000",
+      "color": "silver",
+      "category": "laptop",
+      "discription": "512GB SSD, 16GB RAM, corei7 10th Generation processor",
+      "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06902109.png",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 2,
+      "id": 6
     }
   ],
   "orders": [

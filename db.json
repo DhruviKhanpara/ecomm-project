@@ -1,0 +1,185 @@
+{
+  "seller": [
+    {
+      "name": "Dhruvi",
+      "email": "dhruvi@gmail.com",
+      "password": "dhruvi123",
+      "id": 1
+    },
+    {
+      "name": "Bhumi",
+      "email": "bhumi@gmail.com",
+      "password": "bhumi123",
+      "id": 2
+    },
+    {
+      "name": "Charmi",
+      "password": "charmi1234",
+      "email": "charmi@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Priti",
+      "password": "priti123",
+      "email": "priti@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Hinal",
+      "password": "hinal123",
+      "email": "hinal@gmail.com",
+      "id": 5
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "1234567890",
+      "id": 6
+    }
+  ],
+  "product": [
+    {
+      "name": "dell inspiron16",
+      "price": "80000",
+      "color": "black",
+      "category": "laptop",
+      "discription": "512GB SSD, 16GB RAM, corei5 12th Generation processor",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Inspiron_16_Plus_angled_left_1280x1280.jpeg",
+      "id": 1
+    },
+    {
+      "name": "hp pevilion15",
+      "price": "90000",
+      "color": "silver",
+      "category": "laptop",
+      "discription": "512GB SSD, 16GB RAM, corei7 10th Generation processor",
+      "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06902109.png",
+      "id": 2
+    },
+    {
+      "name": "samsung Galaxy M40",
+      "price": "10000",
+      "color": "black",
+      "category": "mobile",
+      "discription": "Good battery backup",
+      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/SamsungGalaxyM40.JPG",
+      "id": 3
+    },
+    {
+      "name": "Nike shoes",
+      "price": "1799",
+      "color": "red",
+      "category": "shoes",
+      "discription": "Very comfortable for running ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVTJqvYImvx1dalbSs012WQgIMkE_jAJsqcWeQJ_nEg&usqp=CAU&ec=48665698",
+      "id": 4
+    },
+    {
+      "name": "Ring",
+      "price": "55000",
+      "color": "yellow",
+      "category": "Jewelry",
+      "discription": "915 Golden Ring",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrEBT2pIeOQCKuY90fRoiDTHUMjCYisgp0Fh9UjuB0fQ&usqp=CAU&ec=48665698",
+      "id": 5
+    },
+    {
+      "name": "Chain",
+      "price": "70000",
+      "color": "yellow",
+      "category": "Jewelry",
+      "discription": "diamond Chain",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9RfmgYU9D6Ilqiym-mCgbD-3VC7gpRR1yfJB79rjbyRBiH7-paf_5BD2mMYUdQNQVRlK1Fz85LPs&usqp=CAU&ec=48665698",
+      "id": 6
+    },
+    {
+      "name": "Apple watch",
+      "price": "20000",
+      "color": "black",
+      "category": "Watch",
+      "discription": "Smart Features are integrated",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuvu9VtlqVb2fjgE5drvLNdsBXWhvTHWBCJrUSBapBg&usqp=CAU&ec=48665698",
+      "id": 7
+    },
+    {
+      "name": "Redmi note12 pro",
+      "price": "30000",
+      "color": "blue",
+      "category": "mobile",
+      "discription": "Very high user centric",
+      "image": "https://i.gadgets360cdn.com/products/large/redmi-note-12-5g-pro-plus-db-gadgets360-800x600-1673019783.jpg",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "Preeti",
+      "email": "preeti@gmail.com",
+      "password": "1234",
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "name": "samsung Galaxy M40",
+      "price": "10000",
+      "color": "black",
+      "category": "mobile",
+      "discription": "Good battery backup",
+      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/SamsungGalaxyM40.JPG",
+      "quantity": 2,
+      "productId": 3,
+      "userId": null,
+      "id": 1
+    },
+    {
+      "name": "samsung Galaxy M40",
+      "price": "10000",
+      "color": "black",
+      "category": "mobile",
+      "discription": "Good battery backup",
+      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/SamsungGalaxyM40.JPG",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 3,
+      "id": 2
+    },
+    {
+      "name": "Apple watch",
+      "price": "20000",
+      "color": "black",
+      "category": "Watch",
+      "discription": "Smart Features are integrated",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuvu9VtlqVb2fjgE5drvLNdsBXWhvTHWBCJrUSBapBg&usqp=CAU&ec=48665698",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 7,
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "email": "bhumi@gmail.com",
+      "adderss": "naira rainfall",
+      "contect": "1234567890",
+      "totalPrice": 80100,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "bhumi@gmail.com",
+      "adderss": "naira rainfall",
+      "contect": "2345678",
+      "totalPrice": 55100,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "email": "preeti@gmail.com",
+      "adderss": "asd",
+      "contect": "asd",
+      "totalPrice": 30100,
+      "userId": 1,
+      "id": 3
+    }
+  ]
+}

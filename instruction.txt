@@ -1,0 +1,13 @@
+db.json----------------------------------------------------------------------------------
+
+in cmd file location is not fix
+npm install -g json-server
+
+for run json on server
+C:\Users\adim\Desktop\trainer\ecomm-project>json-server --watch db.json
+
+add font awsom in your angular project----------------------------------------------------
+ng add @fortawesome/angular-fontawesome
+
+add angular bootstrip in your project-----------------------------------------------------
+ng add @ng-bootstrap/ng-bootstrap
